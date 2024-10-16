@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Booking</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sports Booking</h1>
+        <form id="booking-form" method="POST" action="center_selection.php">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="date">Select Date:</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="center">Select Center:</label>
+            <select id="center" name="center" required>
+                <option value="1">Indiranagar</option>
+                <option value="2">Koramangala</option>
+            </select>
+
+            <button type="submit">Next</button>
+        </form>
+    </div>
+</body>
+</html>
