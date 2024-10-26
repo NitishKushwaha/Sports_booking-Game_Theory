@@ -77,7 +77,7 @@ Screen on successful booking
 
 ### Links to Deployed Applications:
 
-Frontend + Backend (on AWS) : ec2-16-171-38-227.eu-north-1.compute.amazonaws.com
+Frontend + Backend (on AWS) : http://ec2-16-171-38-227.eu-north-1.compute.amazonaws.com  
 Frontend (on vercel) : https://sports-booking-game-theory.vercel.app/  
 
 Limitations:  
