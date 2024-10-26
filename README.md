@@ -77,7 +77,7 @@ Screen on successful booking
 
 ### Links to Deployed Applications:
 
-Frontend + Backend (on InfinityFree) : https://dash.infinityfree.com/accounts/if0_37527696/domains/sportsbooking.42web.io  (link may not be accessible in initial hours)  
+Frontend + Backend (on AWS) : ec2-16-171-38-227.eu-north-1.compute.amazonaws.com
 Frontend (on vercel) : https://sports-booking-game-theory.vercel.app/  
 
 Limitations:  
